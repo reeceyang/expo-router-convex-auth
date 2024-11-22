@@ -1,0 +1,4 @@
+components/ui
+tailwind.config.js
+metro.config.js
+expo-env.d.ts
