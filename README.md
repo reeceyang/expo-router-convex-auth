@@ -4,6 +4,10 @@ An example of using Convex Auth with Expo Router and gluestack-ui components.
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+![Screenshot_1732315260](https://github.com/user-attachments/assets/a6067428-a310-4cb7-a8a0-abe020d263cc)
+![Screenshot_1732315440](https://github.com/user-attachments/assets/4607e45d-53b0-43a8-9a1d-d8dba4e30b1f)
+![Screenshot_1732315465](https://github.com/user-attachments/assets/78375211-8f73-4eb5-b9f7-77a8d2ce1cdf)
+
 ## Get started
 
 1. Install dependencies
