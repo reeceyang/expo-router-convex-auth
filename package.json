@@ -52,6 +52,7 @@
     "@react-navigation/native": "^6.0.2",
     "babel-plugin-module-resolver": "^5.0.2",
     "convex": "^1.16.3",
+    "convex-helpers": "^0.1.65",
     "expo": "~51.0.34",
     "expo-build-properties": "~0.12.5",
     "expo-constants": "~16.0.2",

@@ -1,0 +1,14 @@
+{
+  "buildCommand": "tailwindcss -i ./global.css -o ./node_modules/.cache/nativewind/global.css.web.css && expo export -p web",
+  "outputDirectory": "dist",
+  "devCommand": "expo",
+  "cleanUrls": true,
+  "framework": null,
+  "rewrites": [
+    {
+      "source": "/:path*",
+      "destination": "/"
+    }
+  ]
+}
+

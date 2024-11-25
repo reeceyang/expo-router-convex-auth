@@ -116,6 +116,9 @@ dependencies:
   convex:
     specifier: ^1.16.3
     version: 1.16.3(react-dom@18.2.0)(react@18.2.0)
+  convex-helpers:
+    specifier: ^0.1.65
+    version: 0.1.65(convex@1.16.3)(react@18.2.0)(zod@3.23.8)
   expo:
     specifier: ~51.0.34
     version: 51.0.34(@babel/core@7.25.2)(@babel/preset-env@7.25.4)
@@ -6920,6 +6923,27 @@ packages:
 
   /convert-source-map@2.0.0:
     resolution: {integrity: sha512-Kvp459HrV2FEJ1CAsi1Ku+MY3kasH19TFykTz2xWmMeq6bk2NU3XXvfJ+Q61m0xktWwt+1HSYf3JZsTms3aRJg==}
+
+  /convex-helpers@0.1.65(convex@1.16.3)(react@18.2.0)(zod@3.23.8):
+    resolution: {integrity: sha512-KGNBozMliwB6hLNZb3mrJSuV68PNOXWNt4i77un8rnuANgfwa4FDZXVdDO3btbrCsjMIWbIQ9+5IMGUBChUnUg==}
+    hasBin: true
+    peerDependencies:
+      convex: ^1.13.0
+      hono: ^4.0.5
+      react: ^17.0.2 || ^18.0.0
+      zod: ^3.22.4
+    peerDependenciesMeta:
+      hono:
+        optional: true
+      react:
+        optional: true
+      zod:
+        optional: true
+    dependencies:
+      convex: 1.16.3(react-dom@18.2.0)(react@18.2.0)
+      react: 18.2.0
+      zod: 3.23.8
+    dev: false
 
   /convex@1.16.3(react-dom@18.2.0)(react@18.2.0):
     resolution: {integrity: sha512-HDmgBkkeBMraFW//kN5llNGS9NbDTVcYtSOHd6iPV67FZqPyBBgn5b9bv6ov5wyOJEvt+I6KIrL/mrbajQm6bQ==}
