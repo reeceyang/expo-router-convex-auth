@@ -1,12 +1,11 @@
 # Expo Router Convex Auth Example
 
-An example of using Convex Auth with Expo Router and gluestack-ui components.
+An example of using [Convex Auth](https://labs.convex.dev/auth) with [Expo Router](https://docs.expo.dev/router/introduction/) and [gluestack-ui](https://gluestack.io/) components. This app uses the [Passwords](https://labs.convex.dev/auth/config/passwords) authentication method with email verification using the [Resend](https://resend.com/) email provider. 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app). You can try out the public preview at [expo-router-convex-auth.vercel.app](https://expo-router-convex-auth.vercel.app/), or build the Android or iOS apps following the instructions below.
 
 ![Screenshot_1732315260](https://github.com/user-attachments/assets/a6067428-a310-4cb7-a8a0-abe020d263cc)
 ![Screenshot_1732315440](https://github.com/user-attachments/assets/4607e45d-53b0-43a8-9a1d-d8dba4e30b1f)
-![Screenshot_1732315465](https://github.com/user-attachments/assets/78375211-8f73-4eb5-b9f7-77a8d2ce1cdf)
 
 ## Get started
 
@@ -55,17 +54,3 @@ In the output, you'll find options to open the app in a
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
